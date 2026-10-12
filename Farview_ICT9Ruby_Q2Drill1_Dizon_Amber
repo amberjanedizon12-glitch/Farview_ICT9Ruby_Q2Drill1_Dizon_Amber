@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Beginners Guide to Volleyball</title>
+    <div class=“court”>
+
+        <div class=“title-bar”>
+             Beginners Guide to Volleyball
+        </div>
+
+        <div class=“ball”></div>
+
+        <div class=“cards”>
+
+            <div class=“card”>
+                <h3> Basic Rules</h3>
+                <ul>
+                    <li>Six players per team</li>
+                    <li>Maximum of three hits</li>
+                    <li>Do not catch or hold the ball</li>
+                    <li>Rotate positions when serving</li>
+                    <li>First to 25 points usually wins a set</li>
+                </ul>
+            </div>
+<div class=“card”>
+                <h3>Volleyball Equipment</h3>
+                <ul>
+                    <li>Volleyball</li>
+                    <li>Net and poles</li>
+                    <li>Sports uniform</li>
+                    <li>Knee pads</li>
+                    <li>Volleyball court</li>
+                </ul>
+            </div>
+
+            <div class=“card”>
+                <h3> Basic Skills</h3>
+                <ul>
+                    <li>Serving</li>
+                    <li>Passing</li>
+                    <li>Setting</li>
+                    <li>Spiking</li>
+                    <li>Blocking</li>
+                    <li>Digging</li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+    <footer>
+        Learn the basics, practice your skills,
+        and enjoy volleyball!
+    </footer>
+
+</body>
+</html>
